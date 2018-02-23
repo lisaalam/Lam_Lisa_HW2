@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206 206">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>search</title>
+  <g id="search">
+    <circle class="cls-1" cx="103" cy="103" r="102.5"/>
+    <circle class="cls-2" cx="75.5" cy="75.5" r="40"/>
+    <rect class="cls-3" x="656.5" y="379.5" width="19" height="31" rx="9.5" ry="9.5" transform="translate(-642.24 300.63) rotate(-45)"/>
+    <rect class="cls-3" x="681" y="390" width="28" height="68" rx="12" ry="12" transform="translate(-654.25 329.63) rotate(-45)"/>
+  </g>
+</svg>

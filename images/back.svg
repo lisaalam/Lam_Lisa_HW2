@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206 206">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>back</title>
+  <g id="back">
+    <circle class="cls-1" cx="103" cy="103" r="102.5"/>
+    <polygon class="cls-2" points="143 148 143 58 62 103 143 148"/>
+    <rect class="cls-2" x="59" y="65" width="8" height="90"/>
+  </g>
+</svg>

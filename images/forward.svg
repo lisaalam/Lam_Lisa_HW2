@@ -1,0 +1,20 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 206 206">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>forward</title>
+  <g id="forward">
+    <circle class="cls-1" cx="103" cy="103" r="102.5"/>
+    <polygon class="cls-2" points="62 62 62 152 143 107 62 62"/>
+    <rect class="cls-2" x="141" y="58" width="8" height="90"/>
+  </g>
+</svg>
